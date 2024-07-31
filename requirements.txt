@@ -1,0 +1,17 @@
+imbalanced-learn
+joblib
+keras
+matplotlib
+numpy
+packaging
+pandas
+protobuf
+scikit-learn
+scipy
+seaborn
+six
+tensorflow
+threadpoolctl
+vaderSentiment
+xgboost
+nltk
